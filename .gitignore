@@ -1,3 +1,7 @@
 # i typically output binaries to the file 'test' over
 # and over, so just ignoring it
 test
+
+makefile 
+# ignore all object files, too lazy to edit makefile clean
+*.o

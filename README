@@ -1,2 +1,5 @@
 collection of files that show my progress in the cryptopals
 challenge set(s)
+
+driver files for each challenge is named sXcY.c, where X is
+the set num, Y is the challenge num.
