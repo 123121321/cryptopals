@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <stdint.h>
-#include "CRYPTOPALS_1.h"
 #include "bytes.h"
 
 // TODO deal with cases where num of bytes/hex/b64/whatever arent
